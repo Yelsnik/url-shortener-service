@@ -1,4 +1,4 @@
-# An URL API generator
+# A URL API generator
 
 ## Introduction
 
